@@ -22,6 +22,10 @@ This project demonstrates the process of simulating CT scan image reconstruction
 
 ## 📂 Folder Structure
 
+├── Codes and Images/       # Contains MATLAB scripts and input-output images
+├── instruction/            # Includes setup steps 
+├── Report/                 # Contains the final project report (ct_scan_report.pdf)
+└── README.md               # Project documentation
 
 
 ## 🖥️ Tools Used
