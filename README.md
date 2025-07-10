@@ -37,7 +37,8 @@ This project demonstrates the process of simulating CT scan image reconstruction
 
 ## 📘 Report
 
-The detailed report can be found in the [`report`](./report/lab-on-CT-scan.pdf) folder.
+The detailed report can be found in the 📄 [`Report/ct_scan_report.pdf`](./Report/ct_scan_report.pdf)
+ folder.
 
 ## 📬 Author Info
 
