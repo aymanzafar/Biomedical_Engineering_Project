@@ -1,4 +1,4 @@
-# Biomedical_Engineering_Project
+# [EEE4331]Biomedical Engineering - Project
 # Computing Tomography - Reconstructing an Image from Projection Data.
 
 This project demonstrates the process of simulating CT scan image reconstruction using MATLAB. It focuses on modeling a head phantom and reconstructing internal features using Radon transform and inverse Radon techniques.
